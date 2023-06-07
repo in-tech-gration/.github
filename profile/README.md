@@ -1,4 +1,4 @@
-# In-Tech-Gration
+# in-tech-gration
 
 Welcome to **In-Tech-Gration**! 👋
 *We want to make the web a better place.*
